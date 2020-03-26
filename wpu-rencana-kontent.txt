@@ -2,7 +2,9 @@ RENCANA KONTENT WPU
 - JavaScript
   * ES6
   * Framework Javascript
+  ^ Anguler
 - Stuktur Materi Dasar
 - PHP Framework
+ * Laravel
 - Interview
 - Vlog
