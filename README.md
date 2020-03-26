@@ -24,3 +24,16 @@ Video
   ^ Modifikasi terhadap repo original
   ^ Berkontribusi pada repo orang lain.
   ^ Fork != Clone
+05. GIT
+ git init
+ git add <file(s)>
+ git status
+ git commit
+ git config
+ git branch
+ git help
+ 
+ * 3 Area pada repo GIt
+  ^ Working tree
+  ^ Staging Area
+  ^ History
