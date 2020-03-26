@@ -4,7 +4,7 @@ RENCANA KONTENT WPU
   * Framework Javascript
    ^ Belajar Vue
    ^ Belajar React Nativ
-- Stuktur Materi Dasar
 - PHP Framework
+ * Laravel
 - Interview
 - Vlog
