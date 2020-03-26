@@ -2,8 +2,8 @@ RENCANA KONTENT WPU
 - JavaScript
   * ES6
   * Framework Javascript
-  ^ Anguler
-- Stuktur Materi Dasar
+   ^ Belajar Vue
+   ^ Belajar React Nativ
 - PHP Framework
  * Laravel
 - Interview
