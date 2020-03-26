@@ -8,3 +8,4 @@ RENCANA KONTENT WPU
  * Laravel
 - Interview
 - Vlog
+- Menyelesaikan Video Git
