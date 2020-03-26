@@ -2,6 +2,7 @@ RENCANA KONTENT WPU
 - JavaScript
   * ES6
   * Framework Javascript
+   ^ Belajar Vue
 - Stuktur Materi Dasar
 - PHP Framework
 - Interview
